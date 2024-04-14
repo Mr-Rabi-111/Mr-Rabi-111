@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abirkumar111@gmail.com**
 
-- ⚡ Fun fact **Sharing Happiness**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
