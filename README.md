@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rabi Behera</h1>
 <h3 align="center">A passionate Front-end Developer certified by META & Full Stack Web Developer. Skilled in MERN Stack & Knowledge of Front-end and Back-end Technologies.</h3>
-
+<p align="center">
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Front+End+Developer;React+Developer;Javascript+developer;Always+learning+new+things&center=true&width=380&height=45"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rabi-111&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rabi-111" /> </p>
 
 
